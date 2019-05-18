@@ -1,0 +1,27 @@
+{
+  "name": "myfirstwebscrapper",
+  "version": "1.0.0",
+  "description": "first web scrapper",
+  "main": "index.js",
+  "dependencies": {
+    "needle": "^2.4.0",
+    "nightmare": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ega3001/FirstWebScrapper.git"
+  },
+  "keywords": [
+    "firstwebscrapper"
+  ],
+  "author": "egorbacharev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ega3001/FirstWebScrapper/issues"
+  },
+  "homepage": "https://github.com/ega3001/FirstWebScrapper#readme"
+}
