@@ -4,6 +4,7 @@
   "description": "first web scrapper",
   "main": "index.js",
   "dependencies": {
+    "jquery": "^3.4.1",
     "needle": "^2.4.0",
     "nightmare": "^3.0.2"
   },
